@@ -1,0 +1,24 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#MyCanvas
+{
+   border-width:10px;
+   background-color:aquamarine;
+   border-style:ridge;
+   border-color:aquamarine;
+   background-image:url(Image_birthday.jpg);
+}
+
+.btn_button {
+border-radius:60px;
+}
+
+.change_button {
+    color:aquamarine;
+    height:80px;
+    padding-left:10px;
+}
